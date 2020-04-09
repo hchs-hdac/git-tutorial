@@ -8,7 +8,7 @@
 # The print() function prints to console
 print('Hello World!')
 
-# variables are set like so: variable_name = value
+# variables are set like so: variable_name = value --> the = is the assignment operator, it does not mean "equal to" (more on this later)
 num1 = 3
 phrase = "The quick brown fox jumped over the lazy dog"
 
