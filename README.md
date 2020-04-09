@@ -1,4 +1,4 @@
-# tutorials
+# Tutorials
 These are a set of tutorials on basic programming and data science with Python being created by Hunter HDAC. They are currently WIP.
 
 ## Want to use these tutorials for a group you run?
