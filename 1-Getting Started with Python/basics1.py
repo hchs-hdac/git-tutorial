@@ -36,4 +36,13 @@ print(4 ** 2) # ** denotes exponent
 
 # Concatenating/joining strings with + operator
 string = 'hello'
-print(string + '_world!') # smashes the two strings together
+print(string + 'world!') # smashes the two strings together
+
+num = 1
+print('the number is ' + str(num)) # str() changes the datatype of num to a string so they can be concatenated
+
+# Practice 1: Print a variable of your choosing to the console
+
+# Practice 2: Print the remainder of 10 / 4
+
+# Practice 3: Print the string 'tacocat' by joining the strings 'taco' and 'cat' together
