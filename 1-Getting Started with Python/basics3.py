@@ -3,9 +3,9 @@ x = 1
 lst = ['Corn Flakes', 'Cheerios', 'Special K']
 
 if x == 1: # the == signifies "equal to" - this is in order to distinguish from  = which assigns variables
-    print('X is 1.')
+    print('X is 1.') # if x is 1, Python will execute this line
 else:
-    print('X is not 1.')
+    print('X is not 1.') # if x is anything else, Python will execute this line
 
 # elif - shortened "else if"
 # in this instance, Python will read the first if statement, then conclude that x is not in the list

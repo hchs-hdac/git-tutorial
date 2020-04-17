@@ -26,12 +26,14 @@ print(lst)
 
 
 # Slicing: extracting pieces from a datatype (i.e. string, list)
+# Syntax like so: [starting point : ending point : step size]
+# start/end points default to beginning/end of string, step size defaults to 1
 string = 'Hello World!'
 print(string[0:3]) # prints the first 3 elements (the elements with indices 0 to 3, excluding 3)
 print(string[:3]) # same as previous line - Python assumes you're starting at the beginning, so the 0 isn't necessary
-print(string[:]) # prints the whole string beginning to end
-print(string[::2]) # prints every other character in the string beginning to end
-print(string[::-1]) # prints whole string backwards
+print(string[:]) # prints the whole string beginning to end (if you don't put anything, Python assumes the defaults)
+print(string[::2]) # prints every other character in the string beginning to end (step size of 2)
+print(string[::-1]) # prints whole string backwards (negative step size means the starting point is the end of the string)
 
 # Practice 1: define your own list and dictionary and index the first value from each
 

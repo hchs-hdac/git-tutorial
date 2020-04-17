@@ -22,7 +22,7 @@ num2 = 7 # python recognizes integers
 num3 = 5.4 # python also recognizes decimals, or floating point numbers
 
 # the type function returns the datatype of the variable/element
-print(type('Hello World!'))
+print(type('Hello World!')) # prints: class <str> (str stands for string)
 print(type(string), type(num2), type(num3))
 
 # Basic mathematical operations
