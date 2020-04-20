@@ -1,7 +1,10 @@
-# Preface: lines with a hash at the front (like this one) are comments: 
+# Foreword 1: lines with a hash at the front (like this one) are comments: 
 # Python knows not to run them as code. 
 # Comments are used to explain the function of certain lines of code and to 
 # comment out lines you don't want to run on a particular iteration.
+
+# Foreword 2: Google and documentation are your friend! This tutorial is more of a follow-along and practice at the end, 
+# so don't hesitate to do additional investigation! 
 
 
 # Setting variables + printing to console
