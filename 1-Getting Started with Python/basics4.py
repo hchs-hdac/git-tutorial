@@ -1,3 +1,7 @@
+# Some extra info first about import statements: 
+# Python has a lot of sophisticated built-in libraries and libraries that developers have built! You can easily take advantage of them using import statements like below:
+import pandas as pd # abbreviations will make your life easier when trying to call functions that are built in to the library 
+
 # Putting it all together with functions!
 # Python allows you to define your own custom functions with custom parameters
 
