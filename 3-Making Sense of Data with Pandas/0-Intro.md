@@ -8,6 +8,7 @@ We'll also be using Pandas to read data from a CSV file, run summary statistics 
 
 ## Installing Packages
 For this tutorial, run the following in your terminal/command prompt:
+    
     pip install pandas 
     pip install xlrd
     pip install html5lib
