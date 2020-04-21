@@ -1,4 +1,4 @@
-Getting Started:
+# Getting Started:
 
 Pandas is a very powerful Python library which allows for cleaning and analysis of data in a tabular format (called a dataframe).
 
@@ -6,6 +6,7 @@ In this tutorial we'll extract a table from a webpage (pandas is able to find ta
 
 We'll also be using Pandas to read data from a CSV file, run summary statistics on the data, and use indexing concepts (similar to those of dictionaries) to extract data from the dataframe.
 
+## Installing Packages
 For this tutorial, run the following in your terminal/command prompt:
 
 pip install pandas 
