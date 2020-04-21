@@ -3,7 +3,7 @@
 Python is a high-level programming language -- meaning that it reads similarly to English. It's also open-sourced, meaning that developers can code their own sophisticated packages or libraries in Python. In the tutorials that follow (2 and beyond) we'll be taking advantage of the power of these libraries!
 
 ## Installing Python
-To download Python on your device, visit https://www.python.org/downloads/.
+Download Python on your device [here!]https://www.python.org/downloads/
 
 Python comes with its own code editor (called IDLE), but we recommend installing a more robust editor (i.e. VS Code or Atom) that will allow you to not only use Python but also other languages (if you're interested) and comes with built-in version control (Git)-- this will save you a lot of time!
 
