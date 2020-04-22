@@ -5,12 +5,9 @@ import os
 # reading the covid data CSV -- df stands for dataframe
 # the os library (operating system) is built into Python, and is helpful for finding files on your computer
 
-# os.chdir() will set the working directory to 3-Making Sense of Data with Pandas
-# os.getcwd() will get the path of the current working directory on your computer (3-Making Sense of Data with Pandas)
-
-os.chdir(os.getcwd() + '\\3-Making Sense of Data with Pandas')
-
-df = pd.read_csv(os.getcwd() + '\\covid19_testing_data.csv') 
+# os.path.abspath() will return the full path of the folder 3-Making Sense of Data with Pandas
+path = os.path.abspath('3-Making Sense of Data with Pandas')
+df = pd.read_csv(path + '\covid19_testing_data.csv')
 
 # pandas' describe function returns summary statistics (count, mean, median, standard deviation)
 summary_statistics = df.describe()
