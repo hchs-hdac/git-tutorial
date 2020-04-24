@@ -36,6 +36,7 @@ Next, we're going to make a **commit**—essentially a snapshot of the changes y
 ## Pull request
 Now that you've made changes on your local computer and pushed them to your fork on GitHub, it's time to merge them back into the original repository, by using a **pull request**. This allows the maintainers of the repository which you're trying to merge into to have a look at your code, and if everything looks good, they can merge the changes automatically!
 * On the webpage for your fork, you should see a button that says "New pull request". Click that, then make sure you're merging with your fork as the head repository and the original repository as the base repository (this should be already be done for you by default).
+  * @HDAC people, make sure you're making a pull request to the "HDAC-PRs" branch in the original repository (this way we can leave the master branch undisturbed).
 * Next, click the green button which says "Create pull request", and follow the steps to submit a request, including a title and message.
 
 Once you've submitted your pull request, you're done! You've completed the essential Git/GitHub workflow—you forked and cloned, made code changes, pushed, and made a pull request to merge your code back into the original repository. Nice job! After the pull request is approved, you'll see your changes reflected in the original repository! 😄
